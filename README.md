@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This landing page is designed based on a working template.
 ---
 ___LAYOUT FEATURES:___
@@ -13,3 +14,7 @@ animation
 * Decreasing header when scrolling
 contacts form
 * The result of the work can be viewed at the link: ➡️ [Link to the layout Page](https://vjacheslav250.github.io/The-Wild-Kingdom/#)
+=======
+
+
+>>>>>>> a7fd7bcf2f09992b2d8d3c4c83230a558eb90841
