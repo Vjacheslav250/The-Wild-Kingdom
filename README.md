@@ -12,7 +12,6 @@ ___LAYOUT FEATURES:___
 * Smooth scrolling to a section from a menu item
 * Animation
 * Decreasing header when scrolling
-<<<<<<< HEAD
 * Contacts form
 * Gallery
 
@@ -25,15 +24,6 @@ ___LAYOUT FEATURES:___
      ![Screenshot 2022-06-19 143627](Screenshot_3.jpg)
  ![Screenshot 2022-06-19 143627](Screenshot_4.jpg)
  ![Screenshot 2022-06-19 143627](Screenshot_5.jpg)
-
-
-
-
-
-
-
 =======
-contacts form
 * The result of the work can be viewed at the link: ➡️ [Link to the layout Page](https://vjacheslav250.github.io/The-Wild-Kingdom/#)
   
->>>>>>> 90ee387d31bf3b69fb9b255b24c65d7274cd2f5e
